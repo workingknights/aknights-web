@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Working Knights"
-baseurl = "https://workingknights.github.io/aknights/"
+baseurl = "/"
 
 [Params]
 	Author = "Anthony Knights"
