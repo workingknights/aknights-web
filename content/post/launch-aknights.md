@@ -1,9 +1,10 @@
-+++
-date = "2017-02-08T23:14:37+09:00"
-title = "launch aknights"
-draft = false
-image = "autumn.jpg"
-+++
+---
+title: "Launch aknights.com"
+date: 2017-01-28
+categories:
+- general
+tags:
+---
 
 Finding some time on my hands between jobs I decided to launch my own website again after a 10 year departure.
 
