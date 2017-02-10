@@ -7,6 +7,6 @@ tags:
 - hugo
 ---
 
-www.aknights.com - this website is my first in over a decade.  I decided to try something much faster and more lightweight than Wordpress and settled on Hugo.
+This website is my first in over a decade.  I decided to try something much faster and more lightweight than Wordpress and settled on Hugo.
 
 Tech Stack: **Hugo, GitHub, Netlify**

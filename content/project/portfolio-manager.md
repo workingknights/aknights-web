@@ -7,7 +7,7 @@ tags:
 - angular2
 ---
 
-Portfolio Manager - a tool for managing fund and stock holdings w. (near) realtime pricing from Barchart.com and Yahoo Finance.
+A site for managing fund and stock holdings w. (near) realtime pricing from Barchart.com and Yahoo Finance.
 
 Also supports defining target ratios to aid rebalancing and a sandbox mode to assist trade generation for a target MV.
 
