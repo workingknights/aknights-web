@@ -117,6 +117,7 @@ canonifyurls = true
 
   # Global keywords configuration. Following keywords will be add to every pages
   # keywords = ["development", "next-gen"]
+	keywords = ["Anthony Knights, Full Stack, Developer, Technical Lead, Goldman Sachs, Financial Services"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -125,7 +126,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Website of Anthony Knights"
 
   # Customization
   # Define the behavior of the sidebar
