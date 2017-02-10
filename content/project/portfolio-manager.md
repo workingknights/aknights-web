@@ -2,6 +2,7 @@
 title: "Portfolio Manager"
 date: 2017-02-08
 coverimage: /assets/images/pflomgr.png
+projecturl: https://pflo-mgr.herokuapp.com/
 tags:
 - projects
 - angular2
