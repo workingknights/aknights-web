@@ -1,7 +1,7 @@
 <article class="post">
 	<header>
 		<div class="postShorten-header">
-			<h2 class="postShorten-title" itemprop="headline">
+			<h1 class="postShorten-title" itemprop="headline">
 				<a class="link-unstyled" href="{{ .Permalink }}">
 				{{ .Title }}
 				</a>
@@ -11,7 +11,7 @@
 	</header>
 
 	<div class="center">
-		<a href="{{ .Params.projecturl }}"><img class="project-img" src="{{ .Params.coverimage }}"/></a>
+		<a href="{{ .Params.projecturl }}"><img class="project-img" src="{{ .Params.projectImage }}"/></a>
 	</div>
 
 		{{ .Content }}

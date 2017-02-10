@@ -1,8 +1,8 @@
 ---
 title: "New Project"
 date: 2015-05-28
-img: "/assets/images/pflomgr.png"
-projecturl: ""
+projectImage:
+projecturl: 
 categories:
 tags:
 - tag1

@@ -1,8 +1,6 @@
 ---
-title: "Launch aknights.com"
+title: "Launch of aknights.com"
 date: 2017-01-28
-categories:
-- general
 tags:
 ---
 

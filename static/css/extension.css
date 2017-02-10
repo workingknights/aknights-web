@@ -1,5 +1,18 @@
 h1 {
 	margin: 0.5em 0;
+	font-weight: 400;
+}
+
+h2 {
+	font-weight: 400;
+}
+/*
+*.postShorten-title {
+	text-transform: uppercase;
+}*/
+
+.postShorten-exceprt *, .postShorten-title, .postShorten * {
+	/*font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;*/
 }
 
 .post {
@@ -8,7 +21,12 @@ h1 {
 
 img.project-img {
 	max-width: 450px;
+	margin: auto;
 	/*float: left;*/
+}
+
+.post .post-content img.project-img {
+	max-width: 60%;
 }
 
 

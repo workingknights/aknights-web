@@ -7,13 +7,13 @@
       <!-- {{ partial "post/header-cover.html" . }} -->
 
 			<div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
-				class="{{ with .Params.coverimage }}hasCover{{ end }}
+				class="{{ with .Params.projectimage }}hasCover{{ end }}
 							 {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
 							 {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
 				<section class="postShorten-group main-content-wrap">
 	<!-- <section id="main"> -->
 			  <!-- <div> -->
-			   <h1 id="title">{{ .Title }}</h1>
+			   <h1 id="title" style="text-transform: uppercase; font-size: 3.5rem">{{ .Title }}</h1>
 	        <!-- <ul id="list"> -->
 	            {{ range .Data.Pages }}
 	                {{ .Render "summary"}}
