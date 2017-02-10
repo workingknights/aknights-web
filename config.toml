@@ -32,7 +32,6 @@ canonifyurls = true
 
 [author]
   name = "Anthony Knights"
-  bio = "Super bio with markdown support **COOL**"
   job = "Technical Lead"
   location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

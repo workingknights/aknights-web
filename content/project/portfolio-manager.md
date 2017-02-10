@@ -1,6 +1,7 @@
 ---
 title: "Portfolio Manager"
 date: 2017-02-08
+coverimage: /assets/images/pflomgr.png
 tags:
 - projects
 - angular2
@@ -10,4 +11,4 @@ Portfolio Manager - a tool for managing fund and stock holdings w. (near) realti
 
 Also supports defining target ratios to aid rebalancing and a sandbox mode to assist trade generation for a target MV.
 
-Tech Stack: Angular2, Java, Dropwizard, MongoDB, Auth0, Dagger, Heroku
+Tech Stack: **Angular2, Java, Dropwizard, MongoDB, Auth0, Dagger, Heroku**

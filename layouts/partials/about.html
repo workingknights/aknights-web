@@ -1,0 +1,35 @@
+<div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    {{ with ($.Scratch.Get "authorPicture") }}
+      <img id="about-card-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=110{{ end }}" alt="{{ i18n "global.author_picture" }}" />
+    {{ end }}
+    <h4 id="about-card-name">{{ .Site.Author.name }}</h4>
+
+    <div id="about-card-bio">
+			I am an experienced technical professional with over 15 years experience working in the financial services industry.
+			<br/>
+			During my professional career I have worked both in Japan and the U.K.
+			<br/>
+			<br/>
+			Please visit my <a href="http://stackoverflow.com/users/story/7503497">Developer Story</a> at Stack Overflow
+		</div>
+		
+    {{ with .Site.Author.job }}
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        {{ . | markdownify }}
+      </div>
+    {{ end }}
+    {{ with .Site.Author.location }}
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        {{ . }}
+      </div>
+    {{ end }}
+  </div>
+</div>

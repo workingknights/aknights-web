@@ -1,11 +1,12 @@
 ---
 date: 2015-05-28T00:00:00Z
 title: www.aknights.com
+coverimage: /assets/images/aknights.png
 tags:
 - projects
 - hugo
 ---
 
-www.aknights.com - this website is my first project using EmberJS.
+www.aknights.com - this website is my first in over a decade.  I decided to try something much faster and more lightweight than Wordpress and settled on Hugo.
 
-Tech Stack: Ember JS, WordPress, Heroku, Netlify
+Tech Stack: **Hugo, GitHub, Netlify**

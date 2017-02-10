@@ -1,0 +1,19 @@
+h1 {
+	margin: 0.5em 0;
+}
+
+.post {
+	border-bottom: 1px solid #eef2f8;
+}
+
+img.project-img {
+	max-width: 450px;
+	/*float: left;*/
+}
+
+
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
