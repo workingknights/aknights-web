@@ -2,10 +2,16 @@
 title: "Portfolio Manager"
 date: 2017-02-08
 projectImage: /assets/images/pflomgr.png
-projecturl: https://pflo-mgr.herokuapp.com/
+projecturl: http://pflo-mgr.netlify.com/
 tags:
 - projects
-- angular2
+- Angular
+- Netlify
+- Auth0
+- MongoDB
+- Heroku
+- Dropwizard
+- Java
 showPagination: false
 ---
 
@@ -13,4 +19,4 @@ A site for managing fund and stock holdings w. (near) realtime pricing from Barc
 
 Also supports defining target ratios to aid rebalancing and a sandbox mode to assist trade generation for a target MV.
 
-Tech Stack: **Angular2, Java, Dropwizard, MongoDB, Auth0, Dagger, Heroku**
+Tech Stack: **Angular, Java, Dropwizard, MongoDB, Auth0, Dagger, Heroku**
