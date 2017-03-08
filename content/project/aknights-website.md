@@ -1,7 +1,7 @@
 ---
 date: 2015-05-28T00:00:00Z
 title: www.aknights.com
-projectImage: /assets/images/aknights.png
+projectImage: "/assets/images/aknights.png"
 tags:
 - projects
 - hugo

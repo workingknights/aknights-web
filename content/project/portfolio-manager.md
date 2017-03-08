@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Manager"
 date: 2017-02-08
-projectImage: "/assets/images/pflomgr.png"
+projectImage: "http://www.aknights.com/assets/images/pflomgr.png"
 projecturl: http://pflo-mgr.netlify.com/
 tags:
 - projects
